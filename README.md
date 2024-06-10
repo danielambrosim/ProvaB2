@@ -1,7 +1,3 @@
-GITHUB:
-    https://github.com/otaviolube/aula06052024
-    https://github.com/KimberlyScaldaC/ProgAvanWeb2Bim5Periodo/tree/main
-
 INSTALL:
     npm install 
     npm i dotenv 
@@ -20,7 +16,7 @@ SITES:
     https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/relational-databases/install-prisma-client-typescript-postgresql
     https://expressjs.com/en/starter/installing.html
     https://www.npmjs.com/package/jsonwebtoken
+    https://www.npmjs.com/package/bcrypt
 
 
-DICAS: 
-    ctrl+C (sai do "run dev")
+
